@@ -331,100 +331,121 @@
     </div>
   </section>
   <section class="section">
-    <h2>Upcoming Releases</h2>
-    <div class="movies" id="movies-upcoming">
-      <div class="movie"><a href="upcoming1.html"><img src="photos/cards/upcoming1.jpg" alt="Upcoming 1"><div class="movie-title">Upcoming 1</div></div></a>
-      <div class="movie"><a href="upcoming2.html"><img src="photos/cards/upcoming2.jpg" alt="Upcoming 2"><div class="movie-title">Upcoming 2</div></div></a>
-      <div class="movie"><a href="upcoming3.html"><img src="photos/cards/upcoming3.jpg" alt="Upcoming 3"><div class="movie-title">Upcoming 3</div></div></a>
-      <div class="movie"><a href="upcoming4.html"><img src="photos/cards/upcoming4.jpg" alt="Upcoming 4"><div class="movie-title">Upcoming 4</div></div></a>
+    <h2>Top Picks for You</h2>
+    <div class="movies" id="movies-top-picks">
       <i class="arrow-left fas fa-chevron-left"></i>
+      <div class="movie"><a href="AOT.html"><img src="photos/cards/aot.jpg" alt="Top Pick 1"><div class="movie-title">Top Pick 1</div></div></a>
+      <div class="movie"><a href="solol.html"><img src="photos/cards/sl.jpg" alt="Top Pick 2"><div class="movie-title">Top Pick 2</div></div></a>
+      <div class="movie"><a href="tokyo.html"><img src="photos/cards/ty.jpg" alt="Top Pick 3"><div class="movie-title">Top Pick 3</div></div></a>
+      <div class="movie"><a href="seaven.html"><img src="photos/cards/sea.jpg" alt="Top Pick 4"><div class="movie-title">Top Pick 4</div></div></a>
+      <div class="movie"><a href="hh.html"><img src="photos/cards/hh.jpg" alt="Top Pick 4"><div class="movie-title">Top Pick 4</div></div></a>
+      <div class="movie"><a href="thewind.html"><img src="photos/cards/the.jpg" alt="Top Pick 4"><div class="movie-title">Top Pick 4</div></div></a>
       <i class="arrow-right fas fa-chevron-right"></i>
     </div>
   </section>
+
   <section class="section">
-    <h2>Upcoming Releases</h2>
-    <div class="movies" id="movies-upcoming">
-      <div class="movie"><a href="upcoming1.html"><img src="photos/cards/upcoming1.jpg" alt="Upcoming 1"><div class="movie-title">Upcoming 1</div></div></a>
-      <div class="movie"><a href="upcoming2.html"><img src="photos/cards/upcoming2.jpg" alt="Upcoming 2"><div class="movie-title">Upcoming 2</div></div></a>
-      <div class="movie"><a href="upcoming3.html"><img src="photos/cards/upcoming3.jpg" alt="Upcoming 3"><div class="movie-title">Upcoming 3</div></div></a>
-      <div class="movie"><a href="upcoming4.html"><img src="photos/cards/upcoming4.jpg" alt="Upcoming 4"><div class="movie-title">Upcoming 4</div></div></a>
+    <h2>Top Picks for You</h2>
+    <div class="movies" id="movies-top-picks">
       <i class="arrow-left fas fa-chevron-left"></i>
+      <div class="movie"><a href="AOT.html"><img src="photos/cards/aot.jpg" alt="Top Pick 1"><div class="movie-title">Top Pick 1</div></div></a>
+      <div class="movie"><a href="solol.html"><img src="photos/cards/sl.jpg" alt="Top Pick 2"><div class="movie-title">Top Pick 2</div></div></a>
+      <div class="movie"><a href="tokyo.html"><img src="photos/cards/ty.jpg" alt="Top Pick 3"><div class="movie-title">Top Pick 3</div></div></a>
+      <div class="movie"><a href="seaven.html"><img src="photos/cards/sea.jpg" alt="Top Pick 4"><div class="movie-title">Top Pick 4</div></div></a>
+      <div class="movie"><a href="hh.html"><img src="photos/cards/hh.jpg" alt="Top Pick 4"><div class="movie-title">Top Pick 4</div></div></a>
+      <div class="movie"><a href="thewind.html"><img src="photos/cards/the.jpg" alt="Top Pick 4"><div class="movie-title">Top Pick 4</div></div></a>
       <i class="arrow-right fas fa-chevron-right"></i>
     </div>
   </section>
+
   <section class="section">
-    <h2>Upcoming Releases</h2>
-    <div class="movies" id="movies-upcoming">
-      <div class="movie"><a href="upcoming1.html"><img src="photos/cards/upcoming1.jpg" alt="Upcoming 1"><div class="movie-title">Upcoming 1</div></div></a>
-      <div class="movie"><a href="upcoming2.html"><img src="photos/cards/upcoming2.jpg" alt="Upcoming 2"><div class="movie-title">Upcoming 2</div></div></a>
-      <div class="movie"><a href="upcoming3.html"><img src="photos/cards/upcoming3.jpg" alt="Upcoming 3"><div class="movie-title">Upcoming 3</div></div></a>
-      <div class="movie"><a href="upcoming4.html"><img src="photos/cards/upcoming4.jpg" alt="Upcoming 4"><div class="movie-title">Upcoming 4</div></div></a>
+    <h2>Top Picks for You</h2>
+    <div class="movies" id="movies-top-picks">
       <i class="arrow-left fas fa-chevron-left"></i>
+      <div class="movie"><a href="AOT.html"><img src="photos/cards/aot.jpg" alt="Top Pick 1"><div class="movie-title">Top Pick 1</div></div></a>
+      <div class="movie"><a href="solol.html"><img src="photos/cards/sl.jpg" alt="Top Pick 2"><div class="movie-title">Top Pick 2</div></div></a>
+      <div class="movie"><a href="tokyo.html"><img src="photos/cards/ty.jpg" alt="Top Pick 3"><div class="movie-title">Top Pick 3</div></div></a>
+      <div class="movie"><a href="seaven.html"><img src="photos/cards/sea.jpg" alt="Top Pick 4"><div class="movie-title">Top Pick 4</div></div></a>
+      <div class="movie"><a href="hh.html"><img src="photos/cards/hh.jpg" alt="Top Pick 4"><div class="movie-title">Top Pick 4</div></div></a>
+      <div class="movie"><a href="thewind.html"><img src="photos/cards/the.jpg" alt="Top Pick 4"><div class="movie-title">Top Pick 4</div></div></a>
       <i class="arrow-right fas fa-chevron-right"></i>
     </div>
   </section>
+
   <section class="section">
-    <h2>Upcoming Releases</h2>
-    <div class="movies" id="movies-upcoming">
-      <div class="movie"><a href="upcoming1.html"><img src="photos/cards/upcoming1.jpg" alt="Upcoming 1"><div class="movie-title">Upcoming 1</div></div></a>
-      <div class="movie"><a href="upcoming2.html"><img src="photos/cards/upcoming2.jpg" alt="Upcoming 2"><div class="movie-title">Upcoming 2</div></div></a>
-      <div class="movie"><a href="upcoming3.html"><img src="photos/cards/upcoming3.jpg" alt="Upcoming 3"><div class="movie-title">Upcoming 3</div></div></a>
-      <div class="movie"><a href="upcoming4.html"><img src="photos/cards/upcoming4.jpg" alt="Upcoming 4"><div class="movie-title">Upcoming 4</div></div></a>
+    <h2>Top Picks for You</h2>
+    <div class="movies" id="movies-top-picks">
       <i class="arrow-left fas fa-chevron-left"></i>
+      <div class="movie"><a href="AOT.html"><img src="photos/cards/aot.jpg" alt="Top Pick 1"><div class="movie-title">Top Pick 1</div></div></a>
+      <div class="movie"><a href="solol.html"><img src="photos/cards/sl.jpg" alt="Top Pick 2"><div class="movie-title">Top Pick 2</div></div></a>
+      <div class="movie"><a href="tokyo.html"><img src="photos/cards/ty.jpg" alt="Top Pick 3"><div class="movie-title">Top Pick 3</div></div></a>
+      <div class="movie"><a href="seaven.html"><img src="photos/cards/sea.jpg" alt="Top Pick 4"><div class="movie-title">Top Pick 4</div></div></a>
+      <div class="movie"><a href="hh.html"><img src="photos/cards/hh.jpg" alt="Top Pick 4"><div class="movie-title">Top Pick 4</div></div></a>
+      <div class="movie"><a href="thewind.html"><img src="photos/cards/the.jpg" alt="Top Pick 4"><div class="movie-title">Top Pick 4</div></div></a>
       <i class="arrow-right fas fa-chevron-right"></i>
     </div>
   </section>
+
   <section class="section">
-    <h2>Upcoming Releases</h2>
-    <div class="movies" id="movies-upcoming">
-      <div class="movie"><a href="upcoming1.html"><img src="photos/cards/upcoming1.jpg" alt="Upcoming 1"><div class="movie-title">Upcoming 1</div></div></a>
-      <div class="movie"><a href="upcoming2.html"><img src="photos/cards/upcoming2.jpg" alt="Upcoming 2"><div class="movie-title">Upcoming 2</div></div></a>
-      <div class="movie"><a href="upcoming3.html"><img src="photos/cards/upcoming3.jpg" alt="Upcoming 3"><div class="movie-title">Upcoming 3</div></div></a>
-      <div class="movie"><a href="upcoming4.html"><img src="photos/cards/upcoming4.jpg" alt="Upcoming 4"><div class="movie-title">Upcoming 4</div></div></a>
+    <h2>Top Picks for You</h2>
+    <div class="movies" id="movies-top-picks">
       <i class="arrow-left fas fa-chevron-left"></i>
+      <div class="movie"><a href="AOT.html"><img src="photos/cards/aot.jpg" alt="Top Pick 1"><div class="movie-title">Top Pick 1</div></div></a>
+      <div class="movie"><a href="solol.html"><img src="photos/cards/sl.jpg" alt="Top Pick 2"><div class="movie-title">Top Pick 2</div></div></a>
+      <div class="movie"><a href="tokyo.html"><img src="photos/cards/ty.jpg" alt="Top Pick 3"><div class="movie-title">Top Pick 3</div></div></a>
+      <div class="movie"><a href="seaven.html"><img src="photos/cards/sea.jpg" alt="Top Pick 4"><div class="movie-title">Top Pick 4</div></div></a>
+      <div class="movie"><a href="hh.html"><img src="photos/cards/hh.jpg" alt="Top Pick 4"><div class="movie-title">Top Pick 4</div></div></a>
+      <div class="movie"><a href="thewind.html"><img src="photos/cards/the.jpg" alt="Top Pick 4"><div class="movie-title">Top Pick 4</div></div></a>
       <i class="arrow-right fas fa-chevron-right"></i>
     </div>
   </section>
+
   <section class="section">
-    <h2>Upcoming Releases</h2>
-    <div class="movies" id="movies-upcoming">
-      <div class="movie"><a href="upcoming1.html"><img src="photos/cards/upcoming1.jpg" alt="Upcoming 1"><div class="movie-title">Upcoming 1</div></div></a>
-      <div class="movie"><a href="upcoming2.html"><img src="photos/cards/upcoming2.jpg" alt="Upcoming 2"><div class="movie-title">Upcoming 2</div></div></a>
-      <div class="movie"><a href="upcoming3.html"><img src="photos/cards/upcoming3.jpg" alt="Upcoming 3"><div class="movie-title">Upcoming 3</div></div></a>
-      <div class="movie"><a href="upcoming4.html"><img src="photos/cards/upcoming4.jpg" alt="Upcoming 4"><div class="movie-title">Upcoming 4</div></div></a>
+    <h2>Top Picks for You</h2>
+    <div class="movies" id="movies-top-picks">
       <i class="arrow-left fas fa-chevron-left"></i>
+      <div class="movie"><a href="AOT.html"><img src="photos/cards/aot.jpg" alt="Top Pick 1"><div class="movie-title">Top Pick 1</div></div></a>
+      <div class="movie"><a href="solol.html"><img src="photos/cards/sl.jpg" alt="Top Pick 2"><div class="movie-title">Top Pick 2</div></div></a>
+      <div class="movie"><a href="tokyo.html"><img src="photos/cards/ty.jpg" alt="Top Pick 3"><div class="movie-title">Top Pick 3</div></div></a>
+      <div class="movie"><a href="seaven.html"><img src="photos/cards/sea.jpg" alt="Top Pick 4"><div class="movie-title">Top Pick 4</div></div></a>
+      <div class="movie"><a href="hh.html"><img src="photos/cards/hh.jpg" alt="Top Pick 4"><div class="movie-title">Top Pick 4</div></div></a>
+      <div class="movie"><a href="thewind.html"><img src="photos/cards/the.jpg" alt="Top Pick 4"><div class="movie-title">Top Pick 4</div></div></a>
       <i class="arrow-right fas fa-chevron-right"></i>
     </div>
   </section>
-  
+
   <section class="section">
-    <h2>Featured Studios</h2>
-    <div class="movies" id="movies-studios">
-      <div class="movie"><a href="studio1.html"><img src="photos/studios/studio1.jpg" alt="Studio 1"><div class="movie-title">Studio 1</div></div></a>
-      <div class="movie"><a href="studio2.html"><img src="photos/studios/studio2.jpg" alt="Studio 2"><div class="movie-title">Studio 2</div></div></a>
-      <div class="movie"><a href="studio3.html"><img src="photos/studios/studio3.jpg" alt="Studio 3"><div class="movie-title">Studio 3</div></div></a>
-      <div class="movie"><a href="studio4.html"><img src="photos/studios/studio4.jpg" alt="Studio 4"><div class="movie-title">Studio 4</div></div></a>
+    <h2>Top Picks for You</h2>
+    <div class="movies" id="movies-top-picks">
+      <i class="arrow-left fas fa-chevron-left"></i>
+      <div class="movie"><a href="AOT.html"><img src="photos/cards/aot.jpg" alt="Top Pick 1"><div class="movie-title">Top Pick 1</div></div></a>
+      <div class="movie"><a href="solol.html"><img src="photos/cards/sl.jpg" alt="Top Pick 2"><div class="movie-title">Top Pick 2</div></div></a>
+      <div class="movie"><a href="tokyo.html"><img src="photos/cards/ty.jpg" alt="Top Pick 3"><div class="movie-title">Top Pick 3</div></div></a>
+      <div class="movie"><a href="seaven.html"><img src="photos/cards/sea.jpg" alt="Top Pick 4"><div class="movie-title">Top Pick 4</div></div></a>
+      <div class="movie"><a href="hh.html"><img src="photos/cards/hh.jpg" alt="Top Pick 4"><div class="movie-title">Top Pick 4</div></div></a>
+      <div class="movie"><a href="thewind.html"><img src="photos/cards/the.jpg" alt="Top Pick 4"><div class="movie-title">Top Pick 4</div></div></a>
+      <i class="arrow-right fas fa-chevron-right"></i>
     </div>
   </section>
-  
+
+  <section class="section">
+    <h2>Top Picks for You</h2>
+    <div class="movies" id="movies-top-picks">
+      <i class="arrow-left fas fa-chevron-left"></i>
+      <div class="movie"><a href="AOT.html"><img src="photos/cards/aot.jpg" alt="Top Pick 1"><div class="movie-title">Top Pick 1</div></div></a>
+      <div class="movie"><a href="solol.html"><img src="photos/cards/sl.jpg" alt="Top Pick 2"><div class="movie-title">Top Pick 2</div></div></a>
+      <div class="movie"><a href="tokyo.html"><img src="photos/cards/ty.jpg" alt="Top Pick 3"><div class="movie-title">Top Pick 3</div></div></a>
+      <div class="movie"><a href="seaven.html"><img src="photos/cards/sea.jpg" alt="Top Pick 4"><div class="movie-title">Top Pick 4</div></div></a>
+      <div class="movie"><a href="hh.html"><img src="photos/cards/hh.jpg" alt="Top Pick 4"><div class="movie-title">Top Pick 4</div></div></a>
+      <div class="movie"><a href="thewind.html"><img src="photos/cards/the.jpg" alt="Top Pick 4"><div class="movie-title">Top Pick 4</div></div></a>
+      <i class="arrow-right fas fa-chevron-right"></i>
+    </div>
+  </section>
+
+
   <footer>
-    <div class="footer-container">
-      <div class="footer-links">
-        <a href="about.html">About Us</a>
-        <a href="privacy.html">Privacy Policy</a>
-        <a href="terms.html">Terms of Service</a>
-        <a href="contact.html">Contact</a>
-      </div>
-      <div class="footer-social">
-        <a href="#"><i class="fab fa-facebook"></i></a>
-        <a href="#"><i class="fab fa-twitter"></i></a>
-        <a href="#"><i class="fab fa-instagram"></i></a>
-        <a href="#"><i class="fab fa-youtube"></i></a>
-      </div>
-      <p>© 2024 ANIme. All rights reserved.</p>
-    </div>
+    <p>© 2024 ANIme. All rights reserved.</p>
   </footer>
-  
 
   
 <script>
